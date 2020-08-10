@@ -1,3 +1,3 @@
 # MineSweeper
 
-A simple MineSweeper application for Android.
+A simple MineSweeper application for Android written in Java.
