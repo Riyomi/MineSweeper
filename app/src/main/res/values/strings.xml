@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="leaderboard">LEADERBOARD</string>
+    <string name="settings">SETTINGS</string>
+    <string name="start">START</string>
+    <string name="welcome_to_minesweeper">WELCOME TO MINESWEEPER</string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+    <string name="_000">000</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+</resources>
